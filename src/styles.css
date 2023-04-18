@@ -1,0 +1,52 @@
+body {
+  width: 30%;
+  text-align: center;
+  margin: 50px auto;
+}
+.form-control {
+  width: 50%;
+  float: left;
+}
+.main {
+  padding: 20px;
+  border: 1px solid #898989;
+  height: 240px;
+}
+h3,
+h4 {
+  font-weight: lighter;
+  text-align: left;
+  font-size: 20px;
+  line-height: 15px;
+}
+h4 {
+  font-size: 18px;
+}
+.container {
+  margin-top: 20px;
+  margin-left: -10px;
+}
+.image {
+  margin-left: -15px;
+  float: left;
+  width: 60%;
+}
+.detail {
+  width: 30%;
+  text-align: left;
+  float: right;
+  font-size: 12px;
+  margin-top: 10px;
+}
+strong {
+  font-size: 25px;
+}
+img {
+  width: 80px;
+}
+.far {
+  color: blue;
+}
+.city_name {
+  font-family: sans-serif;
+}
